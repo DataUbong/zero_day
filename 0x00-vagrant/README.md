@@ -1,1 +1,1 @@
-It print the core operating system uname
+Command to print uname when run without option
