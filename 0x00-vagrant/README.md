@@ -1,1 +1,1 @@
-Command to print uname when run without option
+This command print the core operating system name
